@@ -1,0 +1,2132 @@
+fileFormatVersion: 2
+guid: 113bd6a1d3d12f249b88d07503af1936
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8660575859120476332
+    second: MarioInvi_0
+  - first:
+      213: 2683380601774616315
+    second: MarioInvi_1
+  - first:
+      213: 7803441609783042553
+    second: MarioInvi_2
+  - first:
+      213: -5564618187070174231
+    second: MarioInvi_3
+  - first:
+      213: 7529793985117164949
+    second: MarioInvi_4
+  - first:
+      213: -1446399665105778526
+    second: MarioInvi_5
+  - first:
+      213: 7517601811852348746
+    second: MarioInvi_6
+  - first:
+      213: -6987148946910070298
+    second: RunRight1
+  - first:
+      213: -6816572757936408865
+    second: RunRight2
+  - first:
+      213: 8365501257945978957
+    second: RunRight3
+  - first:
+      213: 6857221727714368568
+    second: RunRight4
+  - first:
+      213: -2409300626276196745
+    second: RunRight5
+  - first:
+      213: 3795934321508500990
+    second: RunRight6
+  - first:
+      213: -2164199431243387536
+    second: MarioInvi_13
+  - first:
+      213: 4054542936907517595
+    second: MarioInvi_14
+  - first:
+      213: -2026385905799963357
+    second: MarioInvi_15
+  - first:
+      213: -3389879052951995936
+    second: MarioInvi_16
+  - first:
+      213: 2010191553427398250
+    second: MarioInvi_17
+  - first:
+      213: 1756051795510797285
+    second: MarioInvi_18
+  - first:
+      213: 3699279045373654617
+    second: MarioInvi_19
+  - first:
+      213: -2526768892002083953
+    second: MarioInvi_20
+  - first:
+      213: -3373973605221680244
+    second: MarioInvi_21
+  - first:
+      213: 6787398673050338690
+    second: MarioInvi_22
+  - first:
+      213: -6629630745845073806
+    second: MarioInvi_23
+  - first:
+      213: -7781959765351649794
+    second: MarioInvi_24
+  - first:
+      213: 5273203910698836283
+    second: MarioInvi_25
+  - first:
+      213: -5995860137292394894
+    second: MarioInvi_26
+  - first:
+      213: -7102324841910249261
+    second: MarioInvi_27
+  - first:
+      213: -2550093689216278592
+    second: MarioInvi_28
+  - first:
+      213: -8480515315924454038
+    second: MarioInvi_29
+  - first:
+      213: -6775737134501681659
+    second: MarioInvi_30
+  - first:
+      213: -7692796820662288686
+    second: MarioInvi_31
+  - first:
+      213: -5351841828219316931
+    second: MarioInvi_32
+  - first:
+      213: 3245714213311406968
+    second: MarioInvi_33
+  - first:
+      213: -1438721313617787323
+    second: MarioInvi_34
+  - first:
+      213: 369630897454879624
+    second: MarioInvi_35
+  - first:
+      213: -3477715958030585218
+    second: MarioInvi_36
+  - first:
+      213: 2548455674897015458
+    second: MarioInvi_37
+  - first:
+      213: -4936959614083699551
+    second: MarioInvi_38
+  - first:
+      213: 1949063230132030480
+    second: MarioInvi_39
+  - first:
+      213: -3820370109960690729
+    second: MarioInvi_40
+  - first:
+      213: -6137593261979168969
+    second: MarioInvi_41
+  - first:
+      213: -5330205654419266176
+    second: MarioInvi_42
+  - first:
+      213: 7722587243309339349
+    second: MarioInvi_43
+  - first:
+      213: 3611931514492020941
+    second: MarioInvi_44
+  - first:
+      213: -8887205726767603389
+    second: MarioInvi_45
+  - first:
+      213: -7780664142156479244
+    second: MarioInvi_46
+  - first:
+      213: -8797199188433170265
+    second: MarioInvi_47
+  - first:
+      213: -3906642830647293704
+    second: MarioInvi_48
+  - first:
+      213: -3554271400741671419
+    second: MarioInvi_49
+  - first:
+      213: -6562686701184653609
+    second: MarioInvi_50
+  - first:
+      213: 1832583724279452283
+    second: MarioInvi_51
+  - first:
+      213: -1680118859981496080
+    second: MarioInvi_52
+  - first:
+      213: -4717603992558996350
+    second: MarioInvi_53
+  - first:
+      213: 6397663846621062358
+    second: MarioInvi_54
+  - first:
+      213: 928752420590712637
+    second: MarioInvi_55
+  - first:
+      213: 4814015731603178592
+    second: MarioInvi_56
+  - first:
+      213: -1494187186797824582
+    second: MarioInvi_57
+  - first:
+      213: -7463278149527600234
+    second: MarioInvi_58
+  - first:
+      213: -910509562980100591
+    second: MarioInvi_59
+  - first:
+      213: -8591575908402959419
+    second: MarioInvi_60
+  - first:
+      213: -2751182965522589246
+    second: MarioInvi_61
+  - first:
+      213: 8639221443645117587
+    second: MarioInvi_62
+  - first:
+      213: -9084496766394489623
+    second: MarioInvi_63
+  - first:
+      213: 7371883948448018860
+    second: MarioInvi_64
+  - first:
+      213: 2300620052441706418
+    second: MarioInvi_65
+  - first:
+      213: 4976707099636116768
+    second: MarioInvi_66
+  - first:
+      213: -5218165259210684696
+    second: MarioInvi_67
+  - first:
+      213: 340827162894900639
+    second: MarioInvi_68
+  - first:
+      213: 5072184866938494054
+    second: MarioInvi_69
+  - first:
+      213: 5623453978207215818
+    second: MarioInvi_70
+  - first:
+      213: 9042675478381715113
+    second: MarioInvi_71
+  - first:
+      213: -9058863754832651907
+    second: MarioInvi_72
+  - first:
+      213: 6168391937472633705
+    second: MarioInvi_73
+  - first:
+      213: -6942456063502854550
+    second: MarioInvi_74
+  - first:
+      213: -5852031707802459184
+    second: MarioInvi_75
+  - first:
+      213: -2643005042780062383
+    second: MarioInvi_76
+  - first:
+      213: -5343023164653949460
+    second: MarioInvi_77
+  - first:
+      213: -3658367263171922724
+    second: MarioInvi_78
+  - first:
+      213: -4098773431729113398
+    second: MarioInvi_79
+  - first:
+      213: 5697605405185709710
+    second: MarioInvi_80
+  - first:
+      213: -6675971908979211345
+    second: MarioInvi_81
+  - first:
+      213: 7146928373481651568
+    second: MarioInvi_82
+  - first:
+      213: -899670087651812973
+    second: MarioInvi_83
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MarioInvi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca01331bbdb803870800000000000000
+      internalID: 8660575859120476332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 170
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe23fda0784d3520800000000000000
+      internalID: 2683380601774616315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 170
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1ee98bcc46b4c60800000000000000
+      internalID: 7803441609783042553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 171
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb0101dd3186c2b0800000000000000
+      internalID: -5564618187070174231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 171
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59518c22cb33f7860800000000000000
+      internalID: 7529793985117164949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_5
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 173
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8402efa2b5debe0800000000000000
+      internalID: -1446399665105778526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_6
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 171
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4dca469403e35860800000000000000
+      internalID: 7517601811852348746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunRight1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 171
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e93ea26d09a80f90800000000000000
+      internalID: -6987148946910070298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunRight2
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 171
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd67891413ba661a0800000000000000
+      internalID: -6816572757936408865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunRight3
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 169
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4814ff521b381470800000000000000
+      internalID: 8365501257945978957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunRight4
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 171
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c518a84deb92f50800000000000000
+      internalID: 6857221727714368568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunRight5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 170
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e5ead68d1709ed0800000000000000
+      internalID: -2409300626276196745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunRight6
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 171
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef54a38572edda430800000000000000
+      internalID: 3795934321508500990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_13
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 156
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07da2ad651837f1e0800000000000000
+      internalID: -2164199431243387536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e01f8b151a44830800000000000000
+      internalID: 4054542936907517595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_15
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 125.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d5fe241c4d0e3e0800000000000000
+      internalID: -2026385905799963357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_16
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 125.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9324136fab4f0d0800000000000000
+      internalID: -3389879052951995936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_17
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 125.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ed7804192a5eb10800000000000000
+      internalID: 2010191553427398250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 125.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3ab96ddcfbe5810800000000000000
+      internalID: 1756051795510797285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_19
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 125.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956fa8031ba765330800000000000000
+      internalID: 3699279045373654617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_20
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 125.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b55b2841d1fecd0800000000000000
+      internalID: -2526768892002083953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_21
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 125.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bb733d1ec3d21d0800000000000000
+      internalID: -3373973605221680244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 125.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2858f18c12fa13e50800000000000000
+      internalID: 6787398673050338690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_23
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 125.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27875e146f1def3a0800000000000000
+      internalID: -6629630745845073806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_24
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 125.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd25d1f2dce00490800000000000000
+      internalID: -7781959765351649794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_25
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 125.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31a765a40f2e2940800000000000000
+      internalID: 5273203910698836283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_26
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 125.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e03c9f8fc6acca0800000000000000
+      internalID: -5995860137292394894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_27
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 125.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8d18e9f297f6d90800000000000000
+      internalID: -7102324841910249261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf5c46fc4f3c9cd0800000000000000
+      internalID: -2550093689216278592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_29
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 94.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65301a70482f4a80800000000000000
+      internalID: -8480515315924454038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_30
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 94.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506aa9eb9feb7f1a0800000000000000
+      internalID: -6775737134501681659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_31
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 94.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de7b2fbc02bd3590800000000000000
+      internalID: -7692796820662288686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_32
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 94.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3519e666307ab5b0800000000000000
+      internalID: -5351841828219316931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_33
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 94.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873ecd661e71b0d20800000000000000
+      internalID: 3245714213311406968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_34
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 94.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54647038692a80ce0800000000000000
+      internalID: -1438721313617787323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_35
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 94.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8839ec4c751312500800000000000000
+      internalID: 369630897454879624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_36
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 94.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7231eb03cbacbfc0800000000000000
+      internalID: -3477715958030585218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_37
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 94.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2a01c1feeed5320800000000000000
+      internalID: 2548455674897015458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_38
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 94.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac671c53656c7bb0800000000000000
+      internalID: -4936959614083699551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_39
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 94.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c8bc46ea67c0b10800000000000000
+      internalID: 1949063230132030480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_40
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 94.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3e54d40a15bfac0800000000000000
+      internalID: -3820370109960690729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_41
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 94.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f86e35273e2daa0800000000000000
+      internalID: -6137593261979168969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085af8ca23e4706b0800000000000000
+      internalID: -5330205654419266176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_43
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 63.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d29a688e242c2b60800000000000000
+      internalID: 7722587243309339349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_44
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 63.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8e55a5398202230800000000000000
+      internalID: 3611931514492020941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_45
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 63.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341233a5a7d4aa480800000000000000
+      internalID: -8887205726767603389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_46
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 63.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4c42abf27850490800000000000000
+      internalID: -7780664142156479244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_47
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 63.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0161b92f11ae580800000000000000
+      internalID: -8797199188433170265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_48
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 63.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f801f63b01d8c9c0800000000000000
+      internalID: -3906642830647293704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_49
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 63.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e667b0ef0bcaec0800000000000000
+      internalID: -3554271400741671419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_50
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 63.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d665b34737ace4a0800000000000000
+      internalID: -6562686701184653609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_51
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 63.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72d6d21035ae6910800000000000000
+      internalID: 1832583724279452283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_52
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 63.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f06e5a6cc40fa8e0800000000000000
+      internalID: -1680118859981496080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_53
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 63.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2847e88e924b78eb0800000000000000
+      internalID: -4717603992558996350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_54
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 63.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4253a4f5119c850800000000000000
+      internalID: 6397663846621062358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_55
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 63.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37f791e76793ec00800000000000000
+      internalID: 928752420590712637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06489595dc1dec240800000000000000
+      internalID: 4814015731603178592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_57
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 32.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5b9fe8ba4934be0800000000000000
+      internalID: -1494187186797824582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_58
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693097da01c1d6890800000000000000
+      internalID: -7463278149527600234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_59
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 32.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11699f560683d53f0800000000000000
+      internalID: -910509562980100591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_60
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb66de3b3794c880800000000000000
+      internalID: -8591575908402959419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_61
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 32.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c99be35ba5d1d9d0800000000000000
+      internalID: -2751182965522589246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_62
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 32.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3949764612ea4e770800000000000000
+      internalID: 8639221443645117587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_63
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 32.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e42fdb92526de180800000000000000
+      internalID: -9084496766394489623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_64
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1f5a8a4613e4660800000000000000
+      internalID: 7371883948448018860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_65
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 32.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfadec9fb17def10800000000000000
+      internalID: 2300620052441706418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_66
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 32.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02da9f84db0d01540800000000000000
+      internalID: 4976707099636116768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_67
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 32.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e68671085a5597b0800000000000000
+      internalID: -5218165259210684696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_68
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 32.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d9726bf7cdab400800000000000000
+      internalID: 340827162894900639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_69
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 32.666664
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c1bfc4345046640800000000000000
+      internalID: 5072184866938494054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.666666
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac06ccd49958a0e40800000000000000
+      internalID: 5623453978207215818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_71
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1.666666
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aed31cff690e7d70800000000000000
+      internalID: 9042675478381715113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_72
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1.666666
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79d9803963784280800000000000000
+      internalID: -9058863754832651907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_73
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1.666666
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b907c19c78a9550800000000000000
+      internalID: 6168391937472633705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_74
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1.666666
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66d7223ef077af90800000000000000
+      internalID: -6942456063502854550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_75
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1.666666
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3ac1aca2869cea0800000000000000
+      internalID: -5852031707802459184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_76
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1.666666
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d3785bae8225bd0800000000000000
+      internalID: -2643005042780062383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_77
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1.666666
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced2e148db4c9d5b0800000000000000
+      internalID: -5343023164653949460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_78
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1.666666
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd438b46b5eda3dc0800000000000000
+      internalID: -3658367263171922724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_79
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1.666666
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac63af2b74b3e17c0800000000000000
+      internalID: -4098773431729113398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_80
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1.666666
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e869076cde5f11f40800000000000000
+      internalID: 5697605405185709710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_81
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1.666666
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3ceca6bee2a53a0800000000000000
+      internalID: -6675971908979211345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_82
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1.666666
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07db8885d7dfe2360800000000000000
+      internalID: 7146928373481651568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioInvi_83
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1.666666
+        width: 28.928572
+        height: 31.333334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399187a62dab383f0800000000000000
+      internalID: -899670087651812973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
