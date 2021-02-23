@@ -49,40 +49,40 @@ TextureImporter:
     second: MarioInvi_14
   - first:
       213: -2026385905799963357
-    second: MarioInvi_15
+    second: MarioJL-6
   - first:
       213: -3389879052951995936
-    second: MarioInvi_16
+    second: MarioJL-5
   - first:
       213: 2010191553427398250
-    second: MarioInvi_17
+    second: MarioJL-4
   - first:
       213: 1756051795510797285
-    second: MarioInvi_18
+    second: MarioJL-3
   - first:
       213: 3699279045373654617
-    second: MarioInvi_19
+    second: MarioJL-2
   - first:
       213: -2526768892002083953
-    second: MarioInvi_20
+    second: MarioJL-1
   - first:
       213: -3373973605221680244
-    second: MarioInvi_21
+    second: MarioJR-1
   - first:
       213: 6787398673050338690
-    second: MarioInvi_22
+    second: MarioJR-2
   - first:
       213: -6629630745845073806
-    second: MarioInvi_23
+    second: MarioJR-3
   - first:
       213: -7781959765351649794
-    second: MarioInvi_24
+    second: MarioJR-4
   - first:
       213: 5273203910698836283
-    second: MarioInvi_25
+    second: MarioJR-5
   - first:
       213: -5995860137292394894
-    second: MarioInvi_26
+    second: MarioJR-6
   - first:
       213: -7102324841910249261
     second: MarioInvi_27
@@ -666,13 +666,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MarioInvi_15
+      name: MarioJL-6
       rect:
         serializedVersion: 2
-        x: 28
-        y: 125.666664
-        width: 28.928572
-        height: 31.333334
+        x: 30
+        y: 142
+        width: 14
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -687,13 +687,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MarioInvi_16
+      name: MarioJL-5
       rect:
         serializedVersion: 2
         x: 56
-        y: 125.666664
-        width: 28.928572
-        height: 31.333334
+        y: 140
+        width: 22
+        height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -708,13 +708,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MarioInvi_17
+      name: MarioJL-4
       rect:
         serializedVersion: 2
-        x: 84
-        y: 125.666664
-        width: 28.928572
-        height: 31.333334
+        x: 88
+        y: 142
+        width: 21
+        height: 18
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -729,13 +729,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MarioInvi_18
+      name: MarioJL-3
       rect:
         serializedVersion: 2
-        x: 112
-        y: 125.666664
-        width: 28.928572
-        height: 31.333334
+        x: 118
+        y: 142
+        width: 21
+        height: 17
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -750,13 +750,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MarioInvi_19
+      name: MarioJL-2
       rect:
         serializedVersion: 2
-        x: 140
-        y: 125.666664
-        width: 28.928572
-        height: 31.333334
+        x: 148
+        y: 142
+        width: 18
+        height: 18
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -771,13 +771,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MarioInvi_20
+      name: MarioJL-1
       rect:
         serializedVersion: 2
-        x: 168
-        y: 125.666664
-        width: 28.928572
-        height: 31.333334
+        x: 179
+        y: 141
+        width: 16
+        height: 18
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -792,13 +792,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MarioInvi_21
+      name: MarioJR-1
       rect:
         serializedVersion: 2
-        x: 196
-        y: 125.666664
-        width: 28.928572
-        height: 31.333334
+        x: 209
+        y: 141
+        width: 16
+        height: 19
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -813,13 +813,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MarioInvi_22
+      name: MarioJR-2
       rect:
         serializedVersion: 2
-        x: 224
-        y: 125.666664
-        width: 28.928572
-        height: 31.333334
+        x: 238
+        y: 141
+        width: 17
+        height: 18
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -834,13 +834,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MarioInvi_23
+      name: MarioJR-3
       rect:
         serializedVersion: 2
-        x: 252
-        y: 125.666664
-        width: 28.928572
-        height: 31.333334
+        x: 270
+        y: 142
+        width: 17
+        height: 17
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -855,13 +855,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MarioInvi_24
+      name: MarioJR-4
       rect:
         serializedVersion: 2
-        x: 280
-        y: 125.666664
-        width: 28.928572
-        height: 31.333334
+        x: 300
+        y: 142
+        width: 15
+        height: 17
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -876,13 +876,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MarioInvi_25
+      name: MarioJR-5
       rect:
         serializedVersion: 2
-        x: 308
-        y: 125.666664
-        width: 28.928572
-        height: 31.333334
+        x: 329
+        y: 141
+        width: 18
+        height: 18
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -897,13 +897,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MarioInvi_26
+      name: MarioJR-6
       rect:
         serializedVersion: 2
-        x: 336
-        y: 125.666664
-        width: 28.928572
-        height: 31.333334
+        x: 360
+        y: 141
+        width: 15
+        height: 17
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -913,27 +913,6 @@ TextureImporter:
       bones: []
       spriteID: 27e03c9f8fc6acca0800000000000000
       internalID: -5995860137292394894
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MarioInvi_27
-      rect:
-        serializedVersion: 2
-        x: 364
-        y: 125.666664
-        width: 28.928572
-        height: 31.333334
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3d8d18e9f297f6d90800000000000000
-      internalID: -7102324841910249261
       vertices: []
       indices: 
       edges: []
